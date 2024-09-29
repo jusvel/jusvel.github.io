@@ -6,7 +6,22 @@
     <description>Recent content in Posts on AwesomeBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2024 20:26:36 +0300</lastBuildDate><atom:link href="https://jusvel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Sep 2024 20:47:48 +0300</lastBuildDate><atom:link href="https://jusvel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cat</title>
+      <link>https://jusvel.github.io/posts/my-second-post/</link>
+      <pubDate>Sun, 29 Sep 2024 20:47:48 +0300</pubDate>
+      
+      <guid>https://jusvel.github.io/posts/my-second-post/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;https://jusvel.github.io/images/Untitled.jpg&#34; alt=&#34;targets&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight my-class&#34; id=&#34;my-codeblock&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1&lt;/span&gt;&lt;span&gt;declare a&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2&lt;/span&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;$a&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3&lt;/span&gt;&lt;span&gt;exit
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      
+    </item>
+    
     <item>
       <title>first AWESOME post</title>
       <link>https://jusvel.github.io/posts/my-first-post/</link>
